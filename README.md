@@ -1,4 +1,4 @@
-# get_next_line (42)
+# Get_Next_Line (42)
 
 > A line-by-line file reading function in **C**. `get_next_line()` returns the next line from a given file descriptor, including the trailing newline when present.
 
